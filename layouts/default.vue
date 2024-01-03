@@ -4,7 +4,10 @@
 
 <template>
 	<HorizontalHeader></HorizontalHeader>
+<<<<<<< HEAD
 	Layout: Horizontal - default.vue
+=======
+>>>>>>> Recreate remote
 
 	<slot />
 
