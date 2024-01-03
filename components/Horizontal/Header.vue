@@ -1,14 +1,5 @@
 <script lang="ts" setup></script>
 
-<<<<<<< HEAD
-<template>
-  <div>
-    Component: Horizontal\Header
-  </div>
-</template>
-
-<style scoped></style>
-=======
 <style scoped></style>
 
 <template>
@@ -31,4 +22,3 @@
   </header>
 
 </template>
->>>>>>> Recreate remote
