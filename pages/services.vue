@@ -1,9 +1,9 @@
 <script lang="ts" setup></script>
 
+<style lang="scss" scoped></style>
+
 <template>
   <div>
-    Component: Vertical\Footer
+    Page: Services
   </div>
 </template>
-
-<style scoped></style>

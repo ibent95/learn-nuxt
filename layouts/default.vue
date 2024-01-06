@@ -1,11 +1,15 @@
-<script setup></script>
+<script lang="ts"></script>
 
-<style></style>
+<style lang="scss" scoped>
+	body {
+		font-family: 'Plus Jakarta Sans';
+	}
+</style>
 
 <template>
-	<HorizontalHeader></HorizontalHeader>
+	<LayoutsHorizontalHeader></LayoutsHorizontalHeader>
 
 	<slot />
 
-	<HorizontalFooter></HorizontalFooter>
+	<LayoutsHorizontalFooter></LayoutsHorizontalFooter>
 </template>

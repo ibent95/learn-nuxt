@@ -1,9 +1,9 @@
-<script lang="ts" setup></script>
+<script lang="ts"></script>
+
+<style lang="scss" scoped></style>
 
 <template>
   <div>
     Component: Vertical\Header
   </div>
 </template>
-
-<style scoped></style>

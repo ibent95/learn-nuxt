@@ -1,7 +1,25 @@
-<script setup></script>
+<script lang="ts"></script>
 
-<style lang="scss"></style>
+<style lang="scss" scoped>
+
+	section {
+		.primary {
+			background-color: #EAD196;
+		}
+
+		.light {
+			background-color: #F3EDC8;
+		}
+	}
+
+</style>
 
 <template>
-	index.vue
+
+	<LandingPageMain />
+
+	<LandingPageServices />
+
+	<LandingPageAbout />
+
 </template>

@@ -1,14 +1,14 @@
-<script lang="ts" setup></script>
+<script lang="ts"></script>
 
-<style scoped></style>
+<style lang="scss" scoped></style>
 
 <template>
   <div>
-    <VerticalHeader></VerticalHeader>
+    <LayoutsVerticalHeader></LayoutsVerticalHeader>
     Layout: vertical
 
     <slot />
 
-    <VerticalFooter></VerticalFooter>
+    <LayoutsVerticalFooter></LayoutsVerticalFooter>
   </div>
 </template>

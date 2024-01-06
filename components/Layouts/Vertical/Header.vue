@@ -3,7 +3,7 @@
 <style lang="scss" scoped></style>
 
 <template>
-    <NuxtLayout>
-      <NuxtPage />
-    </NuxtLayout>
+  <div>
+    Component: Layouts/Vertical/Header
+  </div>
 </template>
